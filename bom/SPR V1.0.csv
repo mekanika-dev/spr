@@ -1,0 +1,62 @@
+level,component_reference,component_name,component_quantity,parent_bom_reference,parent_bom_name,has_child_bom
+0,M01455,Screen Printing Press,1.00,,,True
+1,,Screen Printing Press,1.00,M01455,Screen Printing Press,True
+2,M00788,SPR Press - Mechanical Elements,1.00,Screen Printing Press,Screen Printing Press,True
+3,M00779,SPR - Wood Screw Bag - M4x40,1.00,M00788,SPR Press - Mechanical Elements,True
+4,M00888,Wood screw 4x40mm,4.00,M00779,SPR - Wood Screw Bag - M4x40,False
+3,M00763,SPR - DIN912 Black Screw Bag - M6x100,1.00,M00788,SPR Press - Mechanical Elements,True
+4,M00448,DIN912 M6x100 Black Screw,4.00,M00763,SPR - DIN912 Black Screw Bag - M6x100,False
+3,M00768,SPR - DIN912 Black Screw Bag - M6x90,1.00,M00788,SPR Press - Mechanical Elements,True
+4,M00456,DIN912 M6x90 Black screw,1.00,M00768,SPR - DIN912 Black Screw Bag - M6x90,False
+3,M00767,SPR - DIN912 Black Screw Bag - M6x40,1.00,M00788,SPR Press - Mechanical Elements,True
+4,M00454,DIN912 M6x40 Black screw,2.00,M00767,SPR - DIN912 Black Screw Bag - M6x40,False
+3,M00766,SPR - DIN912 Black Screw Bag - M6x30,1.00,M00788,SPR Press - Mechanical Elements,True
+4,M00453,DIN912 M6x30 Black screw,2.00,M00766,SPR - DIN912 Black Screw Bag - M6x30,False
+3,M00765,SPR - DIN912 Black Screw Bag - M6x20,1.00,M00788,SPR Press - Mechanical Elements,True
+4,M00451,DIN912 M6x20 Black screw,17.00,M00765,SPR - DIN912 Black Screw Bag - M6x20,False
+3,M00764,SPR - DIN912 Black Screw Bag - M6x16,1.00,M00788,SPR Press - Mechanical Elements,True
+4,M01704,DIN912 M6x16 Black screw,4.00,M00764,SPR - DIN912 Black Screw Bag - M6x16,False
+3,M00762,SPR - DIN912 Black Screw Bag - M6x10,1.00,M00788,SPR Press - Mechanical Elements,True
+4,M01716,DIN912 M6x10 Black screw,8.00,M00762,SPR - DIN912 Black Screw Bag - M6x10,False
+3,M00761,SPR - DIN912 Black Screw Bag - M4x25,1.00,M00788,SPR Press - Mechanical Elements,True
+4,M01675,DIN912 M4x25 Black screw,6.00,M00761,SPR - DIN912 Black Screw Bag - M4x25,False
+3,M00758,SPR - DIN125A Washer Bag - M4x9,1.00,M00788,SPR Press - Mechanical Elements,True
+4,M00420,DIN125A Washer M4x9 galvanized,10.00,M00758,SPR - DIN125A Washer Bag - M4x9,False
+3,M00759,SPR - DIN9021 Washer Bag - M6x18,1.00,M00788,SPR Press - Mechanical Elements,True
+4,M01694,DIN9021 Washer M6x18,14.00,M00759,SPR - DIN9021 Washer Bag - M6x18,False
+3,M00760,SPR - DIN9021 Washer Bag - M6x30,1.00,M00788,SPR Press - Mechanical Elements,True
+4,M00867,"Washer DIN9021 M6x30x1,5",8.00,M00760,SPR - DIN9021 Washer Bag - M6x30,False
+3,M00774,SPR - DIN934 Nut Bag - M4,1.00,M00788,SPR Press - Mechanical Elements,True
+4,M01702,Nut DIN934 M4,6.00,M00774,SPR - DIN934 Nut Bag - M4,False
+3,M00775,SPR - DIN934 Nut Bag - M6,1.00,M00788,SPR Press - Mechanical Elements,True
+4,M00703,Nut DIN934 M6,3.00,M00775,SPR - DIN934 Nut Bag - M6,False
+3,M00771,SPR - DIN439B JamNut Bag - M8,1.00,M00788,SPR Press - Mechanical Elements,True
+4,M00613,JamNut DIN439B M8,2.00,M00771,SPR - DIN439B JamNut Bag - M8,False
+3,M00777,SPR - DIN1587 Oneside Nut Bag - M6,1.00,M00788,SPR Press - Mechanical Elements,True
+4,M00711,Oneside Nut DIN1587 M6,5.00,M00777,SPR - DIN1587 Oneside Nut Bag - M6,False
+3,M00770,SPR - I-Type Sliding Nut Bag - M6,1.00,M00788,SPR Press - Mechanical Elements,True
+4,M00556,I-Type Sliding Nut M6,4.00,M00770,SPR - I-Type Sliding Nut Bag - M6,False
+3,M00769,SPR - DIN582 Eye Nut Bag - M6,1.00,M00788,SPR Press - Mechanical Elements,True
+4,M00510,Eye Nut DIN582 M6,4.00,M00769,SPR - DIN582 Eye Nut Bag - M6,False
+3,M01060,SPR - B-Type Square Nut M6 Bag,1.00,M00788,SPR Press - Mechanical Elements,True
+4,M00075,B-Type Square Nut M6,14.00,M01060,SPR - B-Type Square Nut M6 Bag,False
+3,M00773,SPR - Mounting Tools Bag,1.00,M00788,SPR Press - Mechanical Elements,True
+4,M00024,Allen Key 3mm,1.00,M00773,SPR - Mounting Tools Bag,False
+4,M00026,Allen Key 5mm,1.00,M00773,SPR - Mounting Tools Bag,False
+4,M00695,MultiTool for Screen Printing Press,1.00,M00773,SPR - Mounting Tools Bag,False
+3,M00772,SPR - Miscellaneous Components Bag,1.00,M00788,SPR Press - Mechanical Elements,True
+4,M00545,Handle Female M8,2.00,M00772,SPR - Miscellaneous Components Bag,False
+4,M00077,Ball Bearing 626 2RS 6x19x6mm,2.00,M00772,SPR - Miscellaneous Components Bag,False
+4,M01204,"SPR - Foot M8X60 10PA D30, Ready-to-use",2.00,M00772,SPR - Miscellaneous Components Bag,True
+5,M00526,Foot M8X60 10PA D30,2.00,M01204,"SPR - Foot M8X60 10PA D30, Ready-to-use",False
+4,M00065,Angle Bracket Simple 30x30 M6,2.00,M00772,SPR - Miscellaneous Components Bag,False
+4,M00062,Angle Bracket 30 B-Type Rainure 6,2.00,M00772,SPR - Miscellaneous Components Bag,False
+3,M00839,Tension Spring 140x14x3mm,2.00,M00788,SPR Press - Mechanical Elements,False
+2,M00786,Screen Printing MDF Assembly parts,1.00,Screen Printing Press,Screen Printing Press,False
+2,M00633,MDF Screen Printing Plate,1.00,Screen Printing Press,Screen Printing Press,False
+2,M00038,Alu Profile I-6030 (600mm),1.00,Screen Printing Press,Screen Printing Press,False
+2,M00037,Alu Profile I-6030 (160mm),1.00,Screen Printing Press,Screen Printing Press,False
+1,,Screen Printing Press - Mechanical Kit,1.00,M01455,Screen Printing Press,True
+2,M00788,SPR Press - Mechanical Elements,1.00,Screen Printing Press - Mechanical Kit,Screen Printing Press - Mechanical Kit,True
+2,M00038,Alu Profile I-6030 (600mm),1.00,Screen Printing Press - Mechanical Kit,Screen Printing Press - Mechanical Kit,False
+2,M00037,Alu Profile I-6030 (160mm),1.00,Screen Printing Press - Mechanical Kit,Screen Printing Press - Mechanical Kit,False
